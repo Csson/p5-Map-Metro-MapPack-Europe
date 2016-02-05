@@ -1,0 +1,7 @@
+/Map-Metro-MapPack-Europe-*
+/.build
+/_build*
+/Build
+MYMETA.*
+!META.json
+/.prove
